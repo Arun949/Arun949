@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing Masters in EPITA in France <br>I have expertise in AI and LLM MOdels and I have researched generative AI <br>I have published a research paper in the domain of renewable energy using Deep learning and generative AI<br>I have interset to create more projects and boost my skills.
+I am currently doing Masters in EPITA in France <br>I have expertise in AI and LLM Models and I have researched generative AI <br>I have published a research paper in the domain of renewable energy using Deep learning and generative AI<br>I have interset to create more projects and boost my skills.
 
 
 ## 🌐 Socials:
